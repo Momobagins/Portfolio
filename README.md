@@ -18,7 +18,7 @@ I would like develop my skills in a professional environment.
   - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
   - [SoupUI](https://www.soapui.org/tools/soapui/) - Testing tool for SOAP and REST APIs  
  
-##Courses
+## Courses
 
 * [Practical software testing course](https://www.udemy.com/certificate/UC-f72d1665-f44e-4857-a626-449f039a86cd/) 
 * [Learning Jira Software](https://www.linkedin.com/learning/certificates/f74a60e30e5acc0cf885f35e1507f9fbad36c4a7ca644a9cd52a56b36b289654)
