@@ -41,7 +41,7 @@ I would like develop my skills in a professional environment.
 ## Blogs I read
 
 * [testerzy.pl](https://testerzy.pl/)
-* [testerka.pl](http://testerka.pl/blog/)
+* [testerka.pl](http://testerka.pl/)
 * [remigiuszbednarczyk.pl.pl](https://remigiuszbednarczyk.pl/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
 
@@ -51,3 +51,10 @@ I would like develop my skills in a professional environment.
 * Tester oprogramowania - wsparcie na starcie
 * Girls Who Tests
 * Czy IT jest dla mnie?
+
+# My test case examples
+  - [Test cases for site
+# My bug reports
+  - [Bugs reported for YourToDoList aplication on Trello board](https://trello.com/invite/b/PTeT7fHG/802f0ffddff96cb664b10087460fb6b4/yourtodolistapplication-tests)
+
+
