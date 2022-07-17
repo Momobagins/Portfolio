@@ -55,7 +55,5 @@ I would like develop my skills in a professional environment.
 # My test case examples
   - [Test cases for site
 # My bug reports
-  - [Bugs reported for YourToDoList aplication on Trello board](https://trello.com/invite/b/PTeT7fHG/802f0ffddff96cb664b10087460fb6b4/yourtodolistapplication-tests)
-   
-   [Screenshots of the bug raports](https://drive.google.com/drive/folders/1JFpoZuDIbs1HwMM8ydPyoyeCNfDOcp1q?usp=sharing)
+  - [Bugs reported for YourToDoList aplication on Trello board](https://trello.com/invite/b/PTeT7fHG/802f0ffddff96cb664b10087460fb6b4/yourtodolistapplication-tests) and [Screenshots of the bug raports](https://drive.google.com/drive/folders/1JFpoZuDIbs1HwMM8ydPyoyeCNfDOcp1q?usp=sharing)
 
