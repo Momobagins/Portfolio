@@ -47,6 +47,5 @@ I would like develop my skills in a professional environment.
 
 * Testowanie oprogramowania
 * Tester oprogramowania - wsparcie na starcie
-* Dare IT Community
 * Girls Who Tests
 * Czy IT jest dla mnie?
