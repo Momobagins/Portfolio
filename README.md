@@ -17,8 +17,6 @@ I would like develop my skills in a professional environment.
   - [PickPick](https://picpick.app/en/) - Full-featured screen capture tool
   - [BandiCam](https://www.bandicam.com/) - Screen recorder
   - [Slack](https://slack.com/) - Communication and collaboration tool
-  - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
-  - [SoupUI](https://www.soapui.org/tools/soapui/) - Testing tool for SOAP and REST APIs  
  
 ## Courses
 
