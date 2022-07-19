@@ -7,7 +7,7 @@ I would like develop my skills in a professional environment.
 
 [LinkedIn](https://www.linkedin.com/in/monika-bagi%C5%84ska-a86433107/)
 
-[My resume](https://drive.google.com/file/d/14pjwHgZxghRTLdRHrO24zqNUz0dB-AtZ/view?usp=sharing)
+[My resume](https://drive.google.com/file/d/1_kL6sUoWrh4L-bDnc2xxWAA4z7YinNm2/view?usp=sharing)
 
 [My portfolio](https://drive.google.com/file/d/1ab-KtzHJFBU26_7AE7ewcgDwI3HarvvB/view?usp=sharing)
 
