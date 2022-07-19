@@ -1,8 +1,7 @@
 # Portfolio
 
 ## About me
-My name is Monika Bagińska. I'm master of physical education and huge part of my life are sport and dance. Recently I have started to interest of software testing. On this site I would like to share my all gained experience from my personal studies and researches. From last year I started to develop my skill as manual tester on website uTest, I have completed courses and workshops about software testing and I learned basics of a SQL language. I’m open minded and I have willingness to learn and to develop in the IT area. I have good communication skills, because I work with people in all ages, from children to seniors. My English language is also good and I'm constantly learning to improve this skill. I am an energetic and friendly person with a positive attitude.
-I would like develop my skills in a professional environment.
+My name is Monika Bagińska. I'm a master of physical education and a huge part of my life are sports and dance. Recently I have started to interest of software testing. On this site I would like to share my all gained experience from my personal studies and researches. From last year I started to develop my skill as a manual tester on website uTest, I have completed courses and workshops about software testing and I learned the basics of the SQL language. I’m open minded and I have willingness to learn and to develop in the IT area. I have good communication skills, because I work with people in all ages, from children to seniors. My English language is also good and I'm constantly learning to improve this skill. I am an energetic and friendly person with a positive attitude. I would like to develop my skills in a professional environment.
 
 
 [LinkedIn](https://www.linkedin.com/in/monika-bagi%C5%84ska-a86433107/)
