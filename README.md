@@ -26,6 +26,7 @@ I would like develop my skills in a professional environment.
 * [Learning Jira Software](https://www.linkedin.com/learning/certificates/f74a60e30e5acc0cf885f35e1507f9fbad36c4a7ca644a9cd52a56b36b289654)
 * [Learning SLQ Programming](https://www.linkedin.com/learning/certificates/0c55d6afc8819d1fbc53c0a18a1de701dfd828dbdc5a0b13fe9098c513052a78)
 * [Workshops: Manual testing](https://kursy.czyitjestdlamnie.pl/kurs/287/warsztaty-testowanie-manualne-aplikacji-termin-09062022-1900-2130)
+* [Software Development Life Cycle (SDLC)](https://www.linkedin.com/learning/certificates/65ea467f60b06d9bbc5038ad50ffb94bbae48030f5d3e9aad6607d57476a25bc)
 * [uTest Academy](https://www.utest.com/)
 * MySQL database creation and management - Udemy
 * The Complete SQL Bootcamp: From zero to hero - Udemy
