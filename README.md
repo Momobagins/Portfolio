@@ -9,6 +9,8 @@ I would like develop my skills in a professional environment.
 
 [My resume](https://drive.google.com/file/d/14pjwHgZxghRTLdRHrO24zqNUz0dB-AtZ/view?usp=sharing)
 
+[My portfolio](https://drive.google.com/file/d/1ab-KtzHJFBU26_7AE7ewcgDwI3HarvvB/view?usp=sharing)
+
 ## Tools
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [TestLink](https://bitnami.com/stack/testlink) - We-based open-source test management tool
@@ -48,7 +50,6 @@ I would like develop my skills in a professional environment.
 * Testowanie oprogramowania
 * Tester oprogramowania - wsparcie na starcie
 * Girls Who Tests
-* Czy IT jest dla mnie?
 
 # My test case examples
   - [Portfolio and Test Cases for YourToDoList aplication](https://drive.google.com/file/d/1ab-KtzHJFBU26_7AE7ewcgDwI3HarvvB/view?usp=sharing)
