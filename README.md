@@ -53,6 +53,6 @@ I would like develop my skills in a professional environment.
 * Girls Who Tests
 
 # My test case examples
-  - [Portfolio and Test Cases for YourToDoList aplication](https://drive.google.com/file/d/1ab-KtzHJFBU26_7AE7ewcgDwI3HarvvB/view?usp=sharing)
+  - [Portfolio and Test Cases for YourToDoList application](https://drive.google.com/file/d/1ab-KtzHJFBU26_7AE7ewcgDwI3HarvvB/view?usp=sharing)
   
-  - [Bugs reported for YourToDoList aplication on Trello board](https://trello.com/invite/b/PTeT7fHG/802f0ffddff96cb664b10087460fb6b4/yourtodolistapplication-tests) and [Screenshots of the bug raports](https://drive.google.com/drive/folders/1JFpoZuDIbs1HwMM8ydPyoyeCNfDOcp1q?usp=sharing)
+  - [Bugs reported for YourToDoList application on Trello board](https://trello.com/invite/b/PTeT7fHG/802f0ffddff96cb664b10087460fb6b4/yourtodolistapplication-tests) and [Screenshots of the bug raports](https://drive.google.com/drive/folders/1JFpoZuDIbs1HwMM8ydPyoyeCNfDOcp1q?usp=sharing)
